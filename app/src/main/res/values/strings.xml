@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="question">Which is your favorite city?</string>
+    <string name="NewYork">New York</string>
+    <string name="Seattle">Seattle</string>
+    <string name="Miami">Miami</string>
+    <string name="ShowButton">SHOW</string>
+    <string name="resultTextView" />
+</resources>
